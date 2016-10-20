@@ -276,7 +276,7 @@ public class MainApp extends Application {
             alert.showAndWait();
         }
     }
-    
+     
     /**
      * Opens a dialog to show birthday statistics.
      */

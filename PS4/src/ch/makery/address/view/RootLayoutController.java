@@ -98,7 +98,7 @@ public class RootLayoutController {
 
     /**
      * Opens an about dialog.
-     */
+     */ 
     @FXML
     private void handleAbout() {
         Alert alert = new Alert(AlertType.INFORMATION);

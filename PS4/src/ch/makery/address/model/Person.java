@@ -97,7 +97,7 @@ public class Person {
     public IntegerProperty postalCodeProperty() {
         return postalCode;
     }
-
+ 
     public String getCity() {
         return city.get();
     }
